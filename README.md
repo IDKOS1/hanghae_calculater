@@ -1,16 +1,8 @@
 # hanghae_calculater
 
-A new Flutter project.
+항해 플러스 코육대 제출용 파일입니다.
 
-## Getting Started
+## 세뱃돈 계산기
 
-This project is a starting point for a Flutter application.
+본 프로그램은 세뱃돈을 계산하는 계산기와 어떤 친척에게 얼마만큼 받았는지 기록하는 랭킹보드가 구현되어있습니다.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
