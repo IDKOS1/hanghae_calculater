@@ -164,7 +164,7 @@ class MainPage extends StatelessWidget {
                         ),
                       ],
                     ),
-                    const SizedBox(width: 600,),
+                    const SizedBox(width: 200,),
 
                     // 랭크 페이지
                     Column(
